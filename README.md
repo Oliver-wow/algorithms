@@ -1,6 +1,6 @@
-Language: C\\
+Language: C\
 
-Version: C23\\
+Version: C23\
 
 How to run program:
 
